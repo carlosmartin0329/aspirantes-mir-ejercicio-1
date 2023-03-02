@@ -28,3 +28,11 @@ C:\Users\Carlos Martinez\Desktop\makereal\ejercicios (master)
  create mode 100644 ejercicos1/README.md
 
  # 11 -Crear un nuevo commit con el mensaje “Agrega solución primer ejercicio”
+ C:\Users\Carlos Martinez\Desktop\makereal\ejercicios (master)
+λ git add .
+
+C:\Users\Carlos Martinez\Desktop\makereal\ejercicios (master)
+λ git commit -m "solución primer ejercicio"
+[master c90881a] solución primer ejercicio
+ 1 file changed, 30 insertions(+)
+ 
